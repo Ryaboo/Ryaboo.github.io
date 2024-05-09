@@ -1,0 +1,19 @@
+body {
+    background-color: #bff3c1;
+  }
+  h2 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 50%;
+  }
+ 
+  li {
+    font-size: 15px;
+    font-weight:bold;
+    
+  }
+  

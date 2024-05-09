@@ -1,0 +1,40 @@
+body {
+    background-color: #feffb2;
+  }
+  h2 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+ 
+  p {
+    font-size:25px;
+    float: left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 50%;
+  }
+
+  div {
+    flex-wrap: wrap;
+    margin-right: 50%;
+    font-size:40px;
+    float: left;
+   
+  }
+
+
+   body p {
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  @keyframes myAnimation {
+    from { color: rgb(255, 135, 135); }
+    to { color: rgb(98, 173, 243); }  
+  }
+  footer div p {
+    font-size: 40px;
+    font-weight: bold;
+    animation-name: myAnimation;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+  }

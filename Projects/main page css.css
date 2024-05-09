@@ -1,0 +1,33 @@
+body {
+    background-color: #ffb0b0;
+  }
+  p {
+    font-size: 30px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ 
+  h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+
+  div {
+    
+    font-size:30px;
+    text-align:center;
+    padding-top: 5%;
+
+    
+  }
+  
+  h2 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
